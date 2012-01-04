@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="QUnit4SharePoint" Description="Activates QUnit4SharePoint on the given web" Id="f0b10d40-58fd-4a94-b1ce-582b7da19d87" ReceiverAssembly="QUnit4SharePoint, Version=1.0.0.0, Culture=neutral, PublicKeyToken=c423effaf49a01b5" ReceiverClass="QUnit4SharePoint.Features.QUnit4SharePoint.QUnit4SharePointEventReceiver" Scope="Web">
+  <Properties>
+    <Property Key="HideQUnit4SharePointCustomAction" Value="false" />
+  </Properties>
+</Feature>

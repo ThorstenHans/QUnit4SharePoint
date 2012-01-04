@@ -1,0 +1,15 @@
+QUnit4SharePoint
+================
+
+
+After installing QUnit4SharePoint nuget package, 
+you have to add the 'QUnit4SharePoint' SharePoint-Element to 
+a SharePoint Feature in your porject. 
+
+Otherwise deployment will not create the CustomActions 
+within the SharePoint StandardMenu
+
+For more details corresponding post on my blog at
+
+
+http://www.dotnet-rocks.de

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="e675899e-bfa8-4c23-be3a-cbfad8187980" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="QUnit4SharePoint.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="Layouts\QUnit4SharePoint\jquery-1.7.1.min.js" />
+    <TemplateFile Location="Layouts\QUnit4SharePoint\qunit.css" />
+    <TemplateFile Location="Layouts\QUnit4SharePoint\qunit.js" />
+    <TemplateFile Location="Layouts\QUnit4SharePoint\SampleTestSuite.aspx" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="QUnit4SharePoint_QUnit4SharePoint\Feature.xml" />
+  </FeatureManifests>
+</Solution>

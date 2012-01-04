@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>DotNetRocks.QUnit4SharePoint</id>
+    <title>QUnit4SharePoint</title>
+    <version>1.0.1</version>
+    <authors>Thorsten Hans</authors>
+    <owners />
+    <projectUrl>http://www.dotnet-rocks.de</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>QUnit is one of the most famous testing frameworks for JavaScript. QUnit4SharePonit adds QUnit to your SharePoint 2010 project.</description>
+    <summary>Brings QUnit to your SharePoint project.</summary>
+    <tags>SharePoint jQuery QUnit TDD JavaScript</tags>
+    <releaseNotes>Readme added, cause of the SharePoint Feature workaround that users have to do... </releaseNotes>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="System.Web"/>
+    </frameworkAssemblies>
+  </metadata>
+</package>

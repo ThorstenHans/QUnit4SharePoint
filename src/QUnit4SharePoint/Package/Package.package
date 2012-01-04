@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="e675899e-bfa8-4c23-be3a-cbfad8187980" solutionId="e675899e-bfa8-4c23-be3a-cbfad8187980" resetWebServer="false" name="QUnit4SharePoint" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <projectItems>
+    <projectItemReference itemId="a2381bd0-40b3-4661-a924-a8be5d03ce99" />
+  </projectItems>
+</package>
